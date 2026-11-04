@@ -1,0 +1,176 @@
+[
+  {
+    "url": "https://ahinroy.github.io/",
+    "status": 200,
+    "final_url": "https://ahinroy.github.io/"
+  },
+  {
+    "url": "https://aplabmbu.weebly.com/",
+    "status": 200,
+    "final_url": "https://aplabmbu.weebly.com/"
+  },
+  {
+    "url": "https://commons.wikimedia.org/wiki/File:BARC_nuclear_reactor.JPG",
+    "status": 200,
+    "final_url": "https://commons.wikimedia.org/wiki/File:BARC_nuclear_reactor.JPG"
+  },
+  {
+    "url": "https://doi.org/10.1007/s41745-018-0081-5",
+    "status": 200,
+    "final_url": "https://link.springer.com/article/10.1007/s41745-018-0081-5?error=cookies_not_supported&code=9e178430-4fcb-486a-9eb5-908a47db663e"
+  },
+  {
+    "url": "https://doi.org/10.1016/j.cell.2024.10.002",
+    "status": 200,
+    "final_url": "https://linkinghub.elsevier.com/retrieve/pii/S0092867424011504"
+  },
+  {
+    "url": "https://doi.org/10.1016/j.jbc.2021.101168",
+    "status": 200,
+    "final_url": "https://linkinghub.elsevier.com/retrieve/pii/S0021925821009704"
+  },
+  {
+    "url": "https://doi.org/10.1016/j.jmb.2019.03.015",
+    "status": 200,
+    "final_url": "https://linkinghub.elsevier.com/retrieve/pii/S0022283618309938"
+  },
+  {
+    "url": "https://doi.org/10.1038/s41586-023-06902-y",
+    "status": 200,
+    "final_url": "https://www.nature.com/articles/s41586-023-06902-y?error=cookies_not_supported&code=9458a5b5-d7d4-41dd-bdca-261fa7ae9482"
+  },
+  {
+    "url": "https://doi.org/10.1039/D0SC03060K",
+    "status": 403
+  },
+  {
+    "url": "https://doi.org/10.1126/science.adv9045",
+    "status": 403
+  },
+  {
+    "url": "https://doi.org/10.15252/embj.2023113418",
+    "status": 200,
+    "final_url": "https://link.springer.com/article/10.15252/embj.2023113418?error=cookies_not_supported&code=82c71678-4dd8-4952-b594-82586f9c548a"
+  },
+  {
+    "url": "https://dst.gov.in/scientific-programmes/scientific-engineering-research/women-scientists-programs",
+    "status": 404
+  },
+  {
+    "url": "https://emsi2026.iitkgp.ac.in/",
+    "status": 200,
+    "final_url": "https://emsi2026.iitkgp.ac.in/index.html"
+  },
+  {
+    "url": "https://marraffini.rockefeller.edu/",
+    "status": 200,
+    "final_url": "https://marraffini.rockefeller.edu/"
+  },
+  {
+    "url": "https://nccat.nysbc.org/",
+    "status": 200,
+    "final_url": "https://nccat.nysbc.org/"
+  },
+  {
+    "url": "https://nrccamel.icar.gov.in/",
+    "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+  },
+  {
+    "url": "https://nysbc.org/",
+    "status": 200,
+    "final_url": "https://nysbc.org/"
+  },
+  {
+    "url": "https://orcid.org/0000-0002-5421-6814",
+    "status": 200,
+    "final_url": "https://orcid.org/0000-0002-5421-6814"
+  },
+  {
+    "url": "https://sbcihq.in/",
+    "status": 200,
+    "final_url": "https://sbcihq.in/"
+  },
+  {
+    "url": "https://sbcihq.in/sbci-application/",
+    "status": 200,
+    "final_url": "https://sbcihq.in/sbci-application/"
+  },
+  {
+    "url": "https://scholar.google.com/citations?hl=en&user=a9JYDr4AAAAJ&view_op=list_works&sortby=pubdate",
+    "status": 200,
+    "final_url": "https://scholar.google.com/citations?hl=en&user=a9JYDr4AAAAJ&view_op=list_works&sortby=pubdate"
+  },
+  {
+    "url": "https://www.anrfonline.in/ANRF/npdf",
+    "status": 200,
+    "final_url": "https://www.anrfonline.in/ANRF/npdf"
+  },
+  {
+    "url": "https://www.biorxiv.org/content/10.1101/2025.11.13.688252v1",
+    "status": 200,
+    "final_url": "https://www.biorxiv.org/content/10.1101/2025.11.13.688252v1"
+  },
+  {
+    "url": "https://www.biorxiv.org/content/10.64898/2026.08.05.743128v1",
+    "status": 200,
+    "final_url": "https://www.biorxiv.org/content/10.64898/2026.08.05.743128v1"
+  },
+  {
+    "url": "https://www.cell.com/cell-host-microbe/abstract/S1931-3128(24)00480-3",
+    "status": 403
+  },
+  {
+    "url": "https://www.genengnews.com/topics/genome-editing/crispr-study-reveals-yet-another-antiviral-mechanism/",
+    "status": 200,
+    "final_url": "https://www.genengnews.com/topics/genome-editing/crispr-study-reveals-yet-another-antiviral-mechanism/"
+  },
+  {
+    "url": "https://www.gnramachandran.org/",
+    "status": 200,
+    "final_url": "https://www.gnramachandran.org/"
+  },
+  {
+    "url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3691.021088726316!2d87.30961637501963!3d22.315042179676034!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a1d440335454ca7%3A0xb6e0935b029d690d!2sDepartment%20of%20Bioscience%20and%20Biotechnology%2C%20IIT%20Kharagpur!5e0!3m2!1sen!2sin!4v1780759444495!5m2!1sen!2sin",
+    "status": 200,
+    "final_url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3691.021088726316!2d87.30961637501963!3d22.315042179676034!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a1d440335454ca7%3A0xb6e0935b029d690d!2sDepartment%20of%20Bioscience%20and%20Biotechnology%2C%20IIT%20Kharagpur!5e0!3m2!1sen!2sin!4v1780759444495!5m2!1sen!2sin"
+  },
+  {
+    "url": "https://www.iitkgp.ac.in/admission-phd",
+    "status": 200,
+    "final_url": "https://www.iitkgp.ac.in/admission-phd"
+  },
+  {
+    "url": "https://www.iitkgp.ac.in/pdf",
+    "status": 200,
+    "final_url": "https://www.iitkgp.ac.in/pdf"
+  },
+  {
+    "url": "https://www.iitkgpfoundation.org/article.html?nl=3333",
+    "status": 200,
+    "final_url": "https://www.iitkgpfoundation.org/article.html?nl=3333"
+  },
+  {
+    "url": "https://www.mskcc.org/research/ski/core-facilities/structural-biology/",
+    "status": 200,
+    "final_url": "https://www.mskcc.org/research/ski/core-facilities/structural-biology/"
+  },
+  {
+    "url": "https://www.mskcc.org/research/ski/labs/dinshaw-patel",
+    "status": 200,
+    "final_url": "https://www.mskcc.org/research/ski/labs/dinshaw-patel"
+  },
+  {
+    "url": "https://www.researchgate.net/profile/Puja-Majumder",
+    "status": 403
+  },
+  {
+    "url": "https://www.rockefeller.edu/news/36859-a-new-chemistry-for-crispr/",
+    "status": 200,
+    "final_url": "https://www.rockefeller.edu/news/36859-a-new-chemistry-for-crispr/"
+  },
+  {
+    "url": "https://www.rockefeller.edu/news/37733-researchers-find-crispr-is-capable-of-even-more-than-we-thought/",
+    "status": 200,
+    "final_url": "https://www.rockefeller.edu/news/37733-researchers-find-crispr-is-capable-of-even-more-than-we-thought/"
+  }
+]

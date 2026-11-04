@@ -1,0 +1,164 @@
+[
+  {
+    "doi": "10.1126/science.adv9045",
+    "title": [
+      "Cat1 forms filament networks to degrade NAD\n            <sup>+</sup>\n            during the type III CRISPR-Cas antiviral response"
+    ],
+    "authors": [
+      "Christian F. Baca",
+      "Puja Majumder",
+      "James H. Hickling",
+      "Dinshaw J. Patel",
+      "Luciano A. Marraffini"
+    ],
+    "year": {
+      "date-parts": [
+        [
+          2025,
+          6,
+          12
+        ]
+      ]
+    },
+    "volume": "388",
+    "page": null,
+    "article-number": "eadv9045"
+  },
+  {
+    "doi": "10.1016/j.cell.2024.10.002",
+    "title": [
+      "The CRISPR-associated adenosine deaminase Cad1 converts ATP to ITP to provide antiviral immunity"
+    ],
+    "authors": [
+      "Christian F. Baca",
+      "Puja Majumder",
+      "James H. Hickling",
+      "Linzhi Ye",
+      "Marianna Teplova",
+      "Sean F. Brady",
+      "Dinshaw J. Patel",
+      "Luciano A. Marraffini"
+    ],
+    "year": {
+      "date-parts": [
+        [
+          2024,
+          12
+        ]
+      ]
+    },
+    "volume": "187",
+    "page": "7183-7195.e24",
+    "article-number": null
+  },
+  {
+    "doi": "10.1038/s41586-023-06902-y",
+    "title": [
+      "The CRISPR effector Cam1 mediates membrane depolarization for phage defence"
+    ],
+    "authors": [
+      "Christian F. Baca",
+      "You Yu",
+      "Jakob T. Rost\u00f8l",
+      "Puja Majumder",
+      "Dinshaw J. Patel",
+      "Luciano A. Marraffini"
+    ],
+    "year": {
+      "date-parts": [
+        [
+          2024,
+          1,
+          10
+        ]
+      ]
+    },
+    "volume": "625",
+    "page": "797-804",
+    "article-number": null
+  },
+  {
+    "doi": "10.15252/embj.2023113418",
+    "title": [
+      "Cryo\u2010EM structure of antibacterial efflux transporter QacA from Staphylococcus aureus reveals a novel extracellular loop with allosteric role"
+    ],
+    "authors": [
+      "Puja Majumder",
+      "Shahbaz Ahmed",
+      "Pragya Ahuja",
+      "Arunabh Athreya",
+      "Rakesh Ranjan",
+      "Aravind Penmatsa"
+    ],
+    "page": null,
+    "volume": "42"
+  },
+  {
+    "doi": "10.1016/j.jbc.2021.101168",
+    "title": [
+      "Topological analyses of the L-lysine exporter LysO reveal a critical role for a conserved pair of intramembrane solvent-exposed acidic residues"
+    ],
+    "authors": [
+      "Swati Dubey",
+      "Puja Majumder",
+      "Aravind Penmatsa",
+      "Abhijit A. Sardesai"
+    ],
+    "page": "101168",
+    "volume": "297"
+  },
+  {
+    "doi": "10.1039/D0SC03060K",
+    "title": [
+      "Increasing protein stability by engineering the n \u2192 \u03c0* interaction at the \u03b2-turn"
+    ],
+    "authors": [
+      "Bhavesh Khatri",
+      "Puja Majumder",
+      "Jayashree Nagesh",
+      "Aravind Penmatsa",
+      "Jayanta Chatterjee"
+    ],
+    "page": "9480-9487",
+    "volume": "11"
+  },
+  {
+    "doi": "10.1016/j.jmb.2019.03.015",
+    "title": [
+      "Dissection of Protonation Sites for Antibacterial Recognition and Transport in QacA, a Multi-Drug Efflux Transporter"
+    ],
+    "authors": [
+      "Puja Majumder",
+      "Shashank Khare",
+      "Arunabh Athreya",
+      "Nazia Hussain",
+      "Ashutosh Gulati",
+      "Aravind Penmatsa"
+    ],
+    "page": "2163-2179",
+    "volume": "431"
+  },
+  {
+    "doi": "10.1007/s41745-018-0081-5",
+    "title": [
+      "Transporters Through the Looking Glass: An Insight into the Mechanisms of Ion-Coupled Transport and Methods That Help Reveal Them"
+    ],
+    "authors": [
+      "Puja Majumder",
+      "Aditya Kumar Mallela",
+      "Aravind Penmatsa"
+    ],
+    "year": {
+      "date-parts": [
+        [
+          2018,
+          6,
+          20
+        ]
+      ]
+    },
+    "volume": "98",
+    "page": "283-300",
+    "article-number": null
+  }
+]

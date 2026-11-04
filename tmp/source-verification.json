@@ -1,0 +1,66 @@
+[
+  {
+    "url": "https://www.biorxiv.org/content/10.1101/2025.11.13.688252v1",
+    "status": 200,
+    "citation_metadata": [
+      "<meta name=\"citation_title\" content=\"Cap1 forms a cyclic tetra-adenylate-induced membrane pore during the type III-A CRISPR-Cas immune response\" />",
+      "<meta name=\"citation_doi\" content=\"10.1101/2025.11.13.688252\" />",
+      "<meta name=\"citation_author\" content=\"Puja Majumder\" />",
+      "<meta name=\"citation_author_institution\" content=\"Structural Biology Program, Memorial Sloan-Kettering Cancer Center\" />",
+      "<meta name=\"citation_author\" content=\"Clare W. Cahir\" />",
+      "<meta name=\"citation_author_institution\" content=\"Laboratory of Bacteriology, The Rockefeller University\" />",
+      "<meta name=\"citation_author_institution\" content=\"Tri-Institutional PhD Program in Chemical Biology, Weill Cornell Medical College, Rockefeller University and Memorial Sloan Kettering Cancer Center\" />",
+      "<meta name=\"citation_author\" content=\"Cameron G. Roberts\" />",
+      "<meta name=\"citation_author_institution\" content=\"Laboratory of Bacteriology, The Rockefeller University\" />",
+      "<meta name=\"citation_author\" content=\"Dinshaw J. Patel\" />",
+      "<meta name=\"citation_author_institution\" content=\"Structural Biology Program, Memorial Sloan-Kettering Cancer Center\" />",
+      "<meta name=\"citation_author_email\" content=\"marraffini{at}rockefeller.edu\" />",
+      "<meta name=\"citation_author_email\" content=\"pateld{at}mskcc.org\" />",
+      "<meta name=\"citation_author\" content=\"Luciano A. Marraffini\" />",
+      "<meta name=\"citation_author_institution\" content=\"Laboratory of Bacteriology, The Rockefeller University\" />",
+      "<meta name=\"citation_author_institution\" content=\"Howard Hughes Medical Institute, The Rockefeller University\" />",
+      "<meta name=\"citation_author_email\" content=\"marraffini{at}rockefeller.edu\" />",
+      "<meta name=\"citation_author_email\" content=\"pateld{at}mskcc.org\" />"
+    ]
+  },
+  {
+    "url": "https://www.biorxiv.org/content/10.64898/2026.08.05.743128v1",
+    "status": 200,
+    "citation_metadata": [
+      "<meta name=\"citation_title\" content=\"A lipid fenestration-gated membrane depolarization mechanism expands the repertoire of CRISPR-mediated anti-phage defense strategies\" />",
+      "<meta name=\"citation_doi\" content=\"10.64898/2026.08.05.743128\" />",
+      "<meta name=\"citation_author\" content=\"Puja Majumder\" />",
+      "<meta name=\"citation_author_institution\" content=\"Structural Biology Program, Memorial Sloan-Kettering Cancer Center\" />",
+      "<meta name=\"citation_author_institution\" content=\"Currrent Address: Bioscience and Biotechnology Department, Indian Institute of Technology\" />",
+      "<meta name=\"citation_author_email\" content=\"marraffini{at}rockefeller.edu\" />",
+      "<meta name=\"citation_author_email\" content=\"pateld{at}mskcc.org\" />",
+      "<meta name=\"citation_author_email\" content=\"puja{at}bt.iitkgp.ac.in\" />",
+      "<meta name=\"citation_author\" content=\"Heloise Carion\" />",
+      "<meta name=\"citation_author_institution\" content=\"Laboratory of Bacteriology, The Rockefeller University\" />",
+      "<meta name=\"citation_author\" content=\"Gianna Stella\" />",
+      "<meta name=\"citation_author_institution\" content=\"Laboratory of Bacteriology, The Rockefeller University\" />",
+      "<meta name=\"citation_author_institution\" content=\"Tri-Institutional PhD Program in Chemical Biology, Weill Cornell Medical College, Rockefeller University and Memorial Sloan Kettering Cancer Center\" />",
+      "<meta name=\"citation_author\" content=\"Dinshaw J Patel\" />",
+      "<meta name=\"citation_author_institution\" content=\"Structural Biology Program, Memorial Sloan-Kettering Cancer Center\" />",
+      "<meta name=\"citation_author_email\" content=\"marraffini{at}rockefeller.edu\" />",
+      "<meta name=\"citation_author_email\" content=\"pateld{at}mskcc.org\" />",
+      "<meta name=\"citation_author_email\" content=\"puja{at}bt.iitkgp.ac.in\" />",
+      "<meta name=\"citation_author\" content=\"Luciano A Marraffini\" />",
+      "<meta name=\"citation_author_institution\" content=\"Laboratory of Bacteriology, The Rockefeller University\" />",
+      "<meta name=\"citation_author_institution\" content=\"Howard Hughes Medical Institute, The Rockefeller University\" />",
+      "<meta name=\"citation_author_email\" content=\"marraffini{at}rockefeller.edu\" />",
+      "<meta name=\"citation_author_email\" content=\"pateld{at}mskcc.org\" />",
+      "<meta name=\"citation_author_email\" content=\"puja{at}bt.iitkgp.ac.in\" />"
+    ]
+  },
+  {
+    "url": "https://dst.gov.in/scientific-programmes/wise-kiran",
+    "status": 200,
+    "citation_metadata": []
+  },
+  {
+    "url": "https://icar.gov.in/en/animal-science/institutes-universities-under-animal-science-division",
+    "status": 200,
+    "citation_metadata": []
+  }
+]

@@ -1,0 +1,219 @@
+Puja Majumder
+
+Assistant Professor | Principal Investigator, Majumder Lab
+
+Department of Bioscience and Biotechnology, IIT Kharagpur, India
+
+puja@bt.iitkgp.ac.in   |   +91-3222-284524   |   Lab website
+
+ORCID 0000-0002-5421-6814   |   Google Scholar
+
+Academic appointments
+
+June 2026 - present | Assistant ProfessorDepartment of Bioscience and Biotechnology, IIT Kharagpur, India
+
+2025 - 2026 | Senior Research ScientistMemorial Sloan Kettering Cancer Center, New York, USA
+
+2024 - 2025 | Research AssociateMemorial Sloan Kettering Cancer Center, New York, USA
+
+2022 - 2024 | Research ScholarMemorial Sloan Kettering Cancer Center, New York, USA | Dinshaw J. Patel Lab
+
+February 2021 - March 2022 | Research AssociateMolecular Biophysics Unit, Indian Institute of Science, Bengaluru, India
+
+Education
+
+2015 - 2021 | PhD in Structural BiologyIndian Institute of Science, BengaluruSupervisor: Prof. Aravind PenmatsaThesis: Structural and Functional Investigation of a Multi-drug Efflux Transporter QacA
+
+2013 - 2015 | MSc in BiotechnologyJawaharlal Nehru University, New DelhiFirst Class First, Gold Medal
+
+2011 - 2013 | BSc Honours in MicrobiologySt. Xavier’s College (Autonomous), KolkataFirst Class Honours
+
+Awards and fellowships
+
+2025 Ludwig Cancer Research Postdoctoral Fellowship and Award
+
+2019 Best Poster Award, EMBO Workshop on Tools for Structural Biology of Membrane Proteins
+
+2018 Best Poster Award, Indian Biophysical Society Meeting, IISER Pune
+
+2015 GATE Doctoral Fellowship; DST INSPIRE Scholarship; MSc Gold Medal, JNU
+
+2013 CEEB Fellowship, Combined Entrance Examination for Biotechnology
+
+Research focus
+
+I investigate how bacterial antiphage defense systems translate immune signals into molecular responses that restrict viral replication. My lab combines cryo-EM, X-ray crystallography, biophysics, biochemistry, microbiology, and computational biology to connect protein structure with immune function.
+
+Selected research outputs
+
+• Cap1 | Accepted in Nature Structural & Molecular Biology (2026)Co-first author
+
+• Chp1 | bioRxiv (2026)First and co-corresponding author
+
+• Cat1 | Science (2025)Co-first and co-corresponding author
+
+• Cad1 | Cell (2024)Co-first author
+
+• Cam1 | Nature (2024)Co-author
+
+• QacA | The EMBO Journal (2023)First author
+
+Scientific contributions
+
+Membrane poresSignal-triggered pore opening and lipid gating in CRISPR-associated effectors.
+
+Metabolic changesATP-to-ITP conversion and filament-dependent NAD degradation during antiphage defense.
+
+Antimicrobial effluxSubstrate recognition, proton coupling, and allosteric regulation in QacA.
+
+EXTENDED CURRICULUM VITAE
+
+Appointments and education
+
+Academic appointments
+
+June 2026 - present   |   Assistant ProfessorDepartment of Bioscience and Biotechnology, IIT Kharagpur, India
+
+2025 - 2026   |   Senior Research ScientistMemorial Sloan Kettering Cancer Center, New York, USA
+
+2024 - 2025   |   Research AssociateMemorial Sloan Kettering Cancer Center, New York, USA
+
+2022 - 2024   |   Research ScholarMemorial Sloan Kettering Cancer Center, New York, USA | Dinshaw J. Patel Lab
+
+February 2021 - March 2022   |   Research AssociateMolecular Biophysics Unit, Indian Institute of Science, Bengaluru, India
+
+Education
+
+2015 - 2021   |   PhD in Structural BiologyIndian Institute of Science, Bengaluru | Supervisor: Prof. Aravind PenmatsaThesis: Structural and Functional Investigation of a Multi-drug Efflux Transporter QacA
+
+2013 - 2015   |   MSc in BiotechnologyJawaharlal Nehru University, New Delhi | First Class First, Gold Medal
+
+2011 - 2013   |   BSc Honours in MicrobiologySt. Xavier’s College (Autonomous), Kolkata | First Class Honours
+
+Awards and fellowships
+
+2025 Ludwig Cancer Research Postdoctoral Fellowship and Award
+
+2019 Best Poster Award, EMBO Workshop on Tools for Structural Biology of Membrane Proteins
+
+2018 Best Poster Award, Indian Biophysical Society Meeting, IISER Pune
+
+2015 GATE Doctoral Fellowship; DST INSPIRE Scholarship; MSc Gold Medal, JNU
+
+2013 CEEB Fellowship, Combined Entrance Examination for Biotechnology
+
+Methods and technical expertise
+
+Cryo-EM Sample preparation, Vitrobot grid freezing and clipping; independent microscope use; EPU and SerialEM data collection; CryoSPARC and RELION processing; soluble and membrane proteins, filaments, and supramolecular complexes.
+
+Crystallography and molecular analysis Protein crystallization, synchrotron data collection, structure determination and refinement; HKL-3000, CCP4, REFMAC, Coot, and Phenix.
+
+Biochemistry and biophysics Protein purification; antibody, Fab, and nanobody approaches; ITC, MST, SEC-MALS, mass photometry, fluorescence spectroscopy, circular dichroism, nano-DSF, and membrane transport assays.
+
+Computation and analysis GROMACS molecular dynamics; AlphaFold, Foldseek, DALI, and BLAST; ChimeraX, PyMOL, GraphPad Prism, Origin, and Illustrator.
+
+Laboratory development and mentorship
+
+Established the Majumder Lab at IIT Kharagpur in June 2026, focusing on bacterial antiphage defence through structural biology, biophysics, biochemistry, and microbiology. Bishnupada Mandal joined the PhD programme in November 2026 as the lab’s first research scholar.
+
+EXTENDED CURRICULUM VITAE
+
+Contributions to science
+
+CRISPR membrane pores and lipid gating
+
+Membrane-associated immune effectors link intracellular infection signals to growth arrest, but the structural basis of their activation requires direct mechanistic analysis. Cap1 and Chp1 reveal distinct routes from cyclic oligoadenylate recognition to membrane depolarization. Cap1 opens a preformed tetrameric pore following cyclic tetra-adenylate binding. Chp1 undergoes a lipid-gated conformational switch that removes pore obstruction and permits ion flow. These studies connect second-messenger signalling to antiviral growth arrest. Cap1: co-first author; accepted in Nature Structural & Molecular Biology. Chp1: first and co-corresponding author, bioRxiv 2026.
+
+Filament assembly and NAD depletion
+
+TIR-domain immune proteins can couple higher-order assembly to catalytic activity. I resolved the active supramolecular assembly of the Cat1 CARF-TIR effector by cryo-EM. Structural and functional studies linked cyclic signal recognition, filament-network formation, and a composite NADase active site to depletion of cellular NAD during antiviral defence. Co-first and co-corresponding author, Science 2025.
+
+Metabolic reprogramming in antiviral defence
+
+Type III CRISPR-Cas effectors can defend cells by changing essential metabolite pools. I combined X-ray crystallography, cryo-EM, and biochemical characterization to define signal recognition and catalytic regulation in Cad1. The work established how a cyclic nucleotide-activated adenosine deaminase converts ATP to ITP, arrests infected-cell growth, and limits phage propagation. Co-first author, Cell 2024.
+
+Antibody-assisted structural biology of membrane effectors
+
+I used high-affinity antibody fragments as fiducial markers to resolve the small membrane-associated CRISPR effector Cam1. Its tetrameric architecture provides a structural basis for understanding membrane depolarization during type III CRISPR immunity. Nature 2024.
+
+Antibacterial transport and allosteric regulation
+
+Multidrug efflux pumps protect bacteria from chemically diverse antibacterial compounds and contribute to antimicrobial resistance. I determined the nanobody-bound QacA transporter structure at 3.6 angstrom resolution and used structure-guided functional assays to establish the role of an extracellular helical hairpin in efflux. Earlier work identified acidic residues governing substrate recognition, proton coupling, and multidrug transport. First-author papers in The EMBO Journal 2023 and Journal of Molecular Biology 2019.
+
+EXTENDED CURRICULUM VITAE
+
+Publications
+
+Eight published journal articles and two preprints (one accepted for journal publication). Authorship contributions are indicated explicitly.
+
+Preprints
+
+1. P. Majumder*, H. Carion, G. Stella, D. J. Patel*, L. A. Marraffini*; A lipid fenestration-gated membrane depolarization mechanism expands the repertoire of CRISPR-mediated anti-phage defense strategies; bioRxiv, 2026.08.05.743128 (2026) · Chp1 preprint (*co-corresponding authors).
+
+2. P. Majumder‡, C. W. Cahir‡, C. G. Roberts, D. J. Patel, L. A. Marraffini; Cap1 forms a cyclic tetra-adenylate-induced membrane pore during the type III-A CRISPR-Cas immune response; bioRxiv, 2025.11.13.688252 (2025) (‡co-first authors). Accepted in Nature Structural & Molecular Biology.
+
+Journal articles
+
+1. C. F. Baca‡, P. Majumder‡,*, J. H. Hickling, D. J. Patel, L. A. Marraffini*; Cat1 forms filament networks to degrade NAD+ during the type III CRISPR-Cas antiviral response; Science, 388, eadv9045 (2025) (‡co-first and *co-corresponding author)
+
+2. C. F. Baca‡, P. Majumder‡, J. H. Hickling, L. Ye, M. Teplova, S. F. Brady, D. J. Patel, L. A. Marraffini; The CRISPR-associated adenosine deaminase Cad1 converts ATP to ITP to provide antiviral immunity; Cell, 187, 7183-7195.e24 (2024) (‡co-first author)
+
+3. C. F. Baca, Y. Yu, J. T. Rostøl, P. Majumder, D. J. Patel, L. A. Marraffini; The CRISPR effector Cam1 mediates membrane depolarization for phage defence;  Nature, 625, 797-804 (2024)
+
+4. P. Majumder, S. Ahmed, P. Ahuja, A. Athreya, R. Ranjan, A. Penmatsa; Cryo-EM structure of antibacterial efflux transporter QacA from Staphylococcus aureus reveals a novel extracellular loop with allosteric role;  The EMBO Journal, 42:e113418 (2023) 
+
+5. S. Dubey, P. Majumder, A. Penmatsa, A. A. Sardesai; Topological analyses of the L-lysine exporter LysO reveal a critical role for a conserved pair of intramembrane solvent-exposed acidic residues;  Journal of Biological Chemistry, 297(4) 101168 (2021)
+
+6. B. Khatri, P. Majumder, J. Nagesh, A. Penmatsa and J. Chatterjee; Increasing protein stability by engineering the n→π* interaction at the β-turn; Chemical Science, 11, 9480-9487 (2020)
+
+7. P. Majumder, S. Khare, A. Athreya, N. Hussain, A. Gulati and A. Penmatsa; Dissection of protonation sites for antibacterial recognition and transport in QacA, a multi-drug efflux transporter; Journal of Molecular Biology, 431, 2163-2179 (2019)
+
+8. P. Majumder, A. K. Mallela and A. Penmatsa; Transporters Through the Looking Glass: An Insight into the Mechanisms of Ion-Coupled Transport and Methods That Help Reveal Them;  Journal of the Indian Institute of Science, 98, 283-300 (2018)
+
+EXTENDED CURRICULUM VITAE
+
+Scientific engagement
+
+Invited and selected lectures
+
+2027   |   Bose Institute, KolkataInvited lecture | Upcoming; date to be announced
+
+October 2026   |   EMSI 2026, KolkataInvited lecture on Chp1 membrane pore activation and lipid gating
+
+July 2026   |   Bhabha Atomic Research Centre, MumbaiInvited lecture on the Cap1 membrane pore complex and bacterial antiviral defence
+
+May 2026   |   Symposium on the Immune System of BacteriaSelected speaker | Mechanistic diversity of cOA-activated CARF membrane effectors in CRISPR defence
+
+November 2025   |   SciensPURInvited speaker | Diverse immune systems in bacteria
+
+July 2025   |   US Cryo-EM National Facilities Current Practices WebinarInvited speaker | Structural basis of a filamentous CRISPR effector revealed by cryo-EM
+
+July 2025   |   EMSI 2025, Indian Institute of Science, BengaluruKeynote speaker | CRISPR beyond nucleases
+
+Selected research presentations and training
+
+October 2026 Attended the G. N. Ramachandran Lecture Series on Bioinformatics and Computational Biology, IIT Kharagpur.
+
+October 2025 CryoET Workshop, Brookhaven National Laboratory.
+
+June 2025 Fifth Annual NY Area Cryo-EM Meeting, NYU Langone; oral presentation on Cat1 filament networks and NAD degradation.
+
+October 2024 MSKCC Basic Science Retreat; oral presentation on Cat1-mediated antiviral defence.
+
+June 2024 Fourth Annual NY Area Cryo-EM Meeting, Columbia University Medical Center; oral presentation on Cad1 and Cam1.
+
+May 2024 MSKCC Structural Biology Retreat; oral presentation on Cad1.
+
+October 2019 EMBO Workshop, EMBL Hamburg; poster on QacA substrate recognition and transport.
+
+Professional memberships
+
+Electron Microscope Society of India | Life member, 2026
+
+Society of Biological Chemists (India) | Life member since August 2026
+
+Research recognition and outreach
+
+IIT Kharagpur Foundation feature | July 25, 2026Research on the molecular machinery of bacterial immunity featured in the Foundation newsletter. Read feature
+
+Research coverage | Rockefeller University press releases highlighted the Cat1 and Cad1 studies, with additional coverage of Cad1 in Genetic Engineering & Biotechnology News and a commentary in Cell Host & Microbe.
